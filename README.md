@@ -21,4 +21,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![Banner](banner-day1.png)
