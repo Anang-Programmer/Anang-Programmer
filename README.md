@@ -1,4 +1,4 @@
-# 💫 About Me: Ask me about github
+# 💫 About Me: Ask me about git
 🔭 I’m currently working on<br>Mobile app development, interactive web-based quizzes, as well as educational and e-commerce websites.<br><br>✨ I’m looking to collaborate on<br>Exciting AI projects or web and mobile development, especially those involving databases.<br><br>🤝 I’m looking for help with<br>Learning JavaScript frameworks and diving deeper into AI/ML concepts.<br><br>🌱 I’m currently learning<br>Database management, advanced CSS animations, mobile app development, CSS frameworks, JavaScript frameworks, and AI/ML concepts for future career goals.<br><br>💬 Ask me about<br>Web design, mobile app development, and interactive learning media.<br><br>⚡ Fun fact<br>I balance my time between designing, coding, and relaxing with online gaming!<br><br>
 
 
