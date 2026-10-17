@@ -233,7 +233,8 @@ export const systemConfig = {
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anang-Programmer&bg_color=1a1b27&color=38bdf8&line=a855f7&point=10b981&area=true&hide_border=true)](https://github.com/Anang-Programmer)
+<!-- CONTRIBUTION GRAPH (STABLE ENGINE) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anang-Programmer&theme=tokyonight)
 
 <br/>
 
